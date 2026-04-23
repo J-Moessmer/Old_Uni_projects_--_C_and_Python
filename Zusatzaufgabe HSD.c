@@ -21,7 +21,7 @@ void setup() {
 
   ifi_stdio_init(9600);
 printf("\n\nArduino erfolgreich gestartet!\n\n");
-printf("Zusatzaufgabe - J Mößmer - 789749 \n \n ");  
+printf("Zusatzaufgabe - J M - 789749 \n \n ");  
     // Initialisierung des Farbmessgerätes
 
   colormeter_init();
