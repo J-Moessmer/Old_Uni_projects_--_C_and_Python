@@ -36,6 +36,6 @@ the same basic principle is nowadays common with modern TVs that are able to "ex
 the programm was then uploaded to a Arduino that had some display modules added.
 
 
-## Projects in Python at the Heinrich Heine-University
+## Projects in Python at the Heinrich-Heine University
 
 ### PA01
