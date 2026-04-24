@@ -3,16 +3,18 @@ All my Old Projects I wrote when I visited both the HSD and HHU universities in 
 They are written in C and Python and are uploaded here as backup.
 The university specific libraries are missing, so they currently dont run.
 
-## HSD 01 - Uni ID to Pharma check number Converter | C
+## Projects in C at the HSD School (2018-2019)
+
+### HSD 01 - Uni ID to Pharma check number Converter | C
 A basic programm to convert the Uni-ID into a phamaceutic-Check-Number (PZN in german)
 
-## HSD 02 - Calculator for natural Logarithm | C
+### HSD 02 - Calculator for natural Logarithm | C
 A basic programm to calculate the natural Logarithm ln(x)
 
-## HSD 03 - Cafeteria Programm | C
+### HSD 03 - Cafeteria Programm | C
 This is a basic programm to search a Weekly Menu of a cafeteria based on the date and then calculate the price depending if the costumer is student, teacher or guest.
 
-## HSD Bonus Task: Search machine for Pixels in a image and Hue calculation.c | C
+### HSD Bonus Task: Search machine for Pixels in a image and Hue calculation.c | C
 
 This Project was the Final Bonus excercise in the 1 semester C course I visited at the HSD in Düsseldorf
 The Goal of the project was to create a programm that can display and find Pixel RGB values along the left, upper and right border of a image
@@ -34,3 +36,6 @@ the same basic principle is nowadays common with modern TVs that are able to "ex
 the programm was then uploaded to a Arduino that had some display modules added.
 
 
+## Projects in Python at the Heinrich Heine-University
+
+### PA01
