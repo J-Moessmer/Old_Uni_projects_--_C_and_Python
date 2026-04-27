@@ -1,4 +1,4 @@
-# Old University Projects
+<h1 align="center">Old University Projects</h1>
 All my Old Projects I wrote when I visited both the HSD and HHU universities in germany
 They are written in C and Python and are uploaded here as backup.
 The university specific libraries are missing, so they currently dont run.
