@@ -24,6 +24,12 @@ A program that searches a cafeteria weekly menu based on the date. It then calcu
 #### [HSD Bonus Task - Search machine for Pixels and Hue calculation](./C%20Projects%20at%20HSD%20school%20%282018-2019%29/ProjectBonus/README.md)
 The final bonus exercise that processes an EPS image to find RGB values along the borders and calculates their hue angles.
 
+<br>
+
+---
+
+<br>
+
 <h3 align="center">Projects in Python at the Heinrich-Heine University 2022</h3>
 <div align="center">
   <img src="./assets/HHU_Logo.svg" alt="HHU Logo" height="120" />
