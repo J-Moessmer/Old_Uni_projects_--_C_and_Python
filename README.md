@@ -40,26 +40,38 @@ the programm was then uploaded to a Arduino that had some display modules added.
 
 ### PA01
 
- - Write a programm that outputs all words in the attached .txt file line by line
- - Write a programm that outputs all non-capital words in the attached .txt
+ - Write a programm that outputs all words in the attached `Kaleko-fuer-einen.txt` file line by line
+ - Write a programm that outputs all non-capital words in the attached `american-english.txt`
  - Write a programm that outputs every 3 letter long word starting with "D"
 
 ### PA02
 
  - Write a programm that outputs all squared numbers of the numbers from 1 to 100
  - Write a programm that outputs all numbers from 1 to 100. if the number is divisible by 3 replace it with "FIZZ" if it is replaceable by 5 replace it with "BUZZ" and if both condition apply replace it with "FIZZBUZZ"
- - Write a programm that reads the .txt and outputs every capitalized word that also contains a umlaut (ä, ö, ü)
+ - Write a programm that reads  `german.txt` and outputs every capitalized word that also contains a umlaut (ä, ö, ü)
 
 ### PA03
 
  - Write a programm that outputs all word combinations of the 2 given arrays
- - Write a programm that replaces all umlauts with the fitting letter pair: ß -> SS, ä -> ae, ö -> oe, ü -> ue
+ - Write a programm that reads `german.txt` and replaces all umlauts with the fitting letter pair: ß -> SS, ä -> ae, ö -> oe, ü -> ue
  - Write a programm that outputs all possible partial string combinations of the word: "Humuhumunukunukuāpua‘a"
 
 ### PA04
 
  - Write a programm that reads numbers.txt and then outputs: smallest number, largest number, average and summ of all numbers
- - Write a programm that reads the attached .txt file and outputs statistics about word lenghts
+ - Write a programm that reads the attached `numbers.txt` file and outputs statistics about word lenghts
  - Write a programm like task 2, but this one considers special signs
 
+### PA05
+
+ - Write a programm that sorts the given string 3 times: 1st using the last letter of each word, by letter without considering capitalisation and lastly invert the previous sorting
+ - Write a programm that reads  `numbers.txt` with decimal numbers, converts them to floats and then sorts them
+ - Write a programm that reads `temperatures.txt` and calculates the Kelvin values from celsius and Fahrenheit out of the list
+
+### PA06
+
+ - Write a programm that reads the given list containing 10 dictionaries of schools, print the postal codes of each school line by line
+ - Write a programm that reads `Braille.txt` and converts the braille text to ASCII fulltext
+ - Write a programm that reads `grimm.txt` and counts how often each ASCII character is used
    
+###
