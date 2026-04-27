@@ -5,7 +5,7 @@ The university specific libraries are missing, so they currently dont run.
 
 ## Table of Contents
 
-<h3 align="center">Projects in C at the HSD School (2018-2019)</h3>
+<h3 align="center">Projects in C at the HSD University of Applied Science (2018-2019)</h3>
 <div align="center">
   <img src="./assets/HSD_Logo.svg" alt="HSD Logo" height="120" />
 </div>
