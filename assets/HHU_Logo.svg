@@ -50,6 +50,10 @@
    type="text/css"
    id="style3918">
 	.st0{fill:#006AB3;}
+	@media (prefers-color-scheme: dark) {
+		path:not(.st0) { fill: #e6edf3 !important; }
+		.st0 { fill: #58a6ff !important; }
+	}
 </style>
 <g
    id="g3934"
